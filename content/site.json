@@ -32,7 +32,7 @@
       "title": "Learning-based control for human movement and robotics",
       "short": "Human motion digital twins, musculoskeletal systems, and tendon-driven robots.",
       "description": "We bring learning and optimal control to nonlinear, high-dimensional systems, particularly human musculoskeletal models and tendon-driven assistive robots. Our work explores reinforcement learning, generative models, and efficient numerical methods for applications in healthcare and human movement.",
-      "image": "assets/images/Picture1.png",
+      "image": "assets/images/research-overview.png",
       "alt": "A simulated human musculoskeletal model with leg muscles shown in red",
       "caption": "A musculoskeletal model for studying human motion and control.",
       "papers": []
