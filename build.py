@@ -117,7 +117,7 @@ def research():
         if i == 1:
             body += '<div style="margin-top:2rem">'
             body += video({
-                "title": "Constrainted Generative Model for Human Motion Generation",
+                "title": "Constrained Generative Model for Human Motion Generation",
                 "description": "Qijun Feng · MSc thesis, 2026",
                 "type": "mp4",
                 "src": "https://folklorer5.github.io/constraint-guided-human-motion-page/assets/videos/teaser.mp4",
