@@ -115,7 +115,7 @@ def research():
         body+=f'<section class="research-detail" id="{r["id"]}"><div class="research-main"><div><p class="eyebrow">Research area 0{i+1}</p><h2>{e(r["title"])}</h2><p>{e(r["description"])}</p>{refs}</div><figure class="research-figure">{image(r["image"],r["alt"])}<figcaption>{e(r["caption"])}</figcaption></figure></div>'
         if r['id']=='bio-inspired':body+='<div class="video-grid">'+''.join(video(v) for v in SITE['videos'][:2])+'</div>'
         if i == 1:
-            body += '<div style="featured-video">'
+            body += '<div class="featured-video">'
             body += video({
                 "title": "Constrained Generative Model for Human Motion Generation",
                 "description": "Qijun Feng · MSc thesis, 2026",
