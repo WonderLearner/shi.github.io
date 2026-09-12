@@ -8,12 +8,12 @@
     "kind": "Journal Papers",
     "links": [
       {
-        "label": "ArXiv",
-        "url": "https://arxiv.org/abs/2412.10625"
-      },
-      {
         "label": "IEEE",
         "url": "https://ieeexplore.ieee.org/document/11372995"
+      },
+      {
+        "label": "ArXiv",
+        "url": "https://arxiv.org/abs/2412.10625"
       }
     ]
   },
