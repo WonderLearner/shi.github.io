@@ -123,10 +123,6 @@ def research():
                 "src": "https://folklorer5.github.io/constraint-guided-human-motion-page/assets/videos/teaser.mp4",
                 "poster": "https://folklorer5.github.io/constraint-guided-human-motion-page/assets/images/teaser.jpg"
             })
-            body += '<p>' + link(
-                "https://folklorer5.github.io/constraint-guided-human-motion-page/",
-                "Project page"
-            ) + '</p>'
             body += '</div>'
         body+='</section>'
     page('research.html','Research',body)
