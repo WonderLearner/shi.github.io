@@ -114,16 +114,6 @@ def research():
         refs='<div class="related"><h3>Related publications</h3><ul>'+''.join('<li>'+link(p['links'][0]['url'],p['title'])+'</li>' for p in related)+'</ul></div>' if related else ''
         body+=f'<section class="research-detail" id="{r["id"]}"><div class="research-main"><div><p class="eyebrow">Research area 0{i+1}</p><h2>{e(r["title"])}</h2><p>{e(r["description"])}</p>{refs}</div><figure class="research-figure">{image(r["image"],r["alt"])}<figcaption>{e(r["caption"])}</figcaption></figure></div>'
         if r['id']=='bio-inspired':body+='<div class="video-grid">'+''.join(video(v) for v in SITE['videos'][:2])+'</div>'
-        if i == 1:
-            body += '<div class="featured-video">'
-            body += video({
-                "title": "Constrained Generative Model for Human Motion Generation",
-                "description": "Qijun Feng · MSc thesis, 2026",
-                "type": "mp4",
-                "src": "https://folklorer5.github.io/constraint-guided-human-motion-page/assets/videos/teaser.mp4",
-                "poster": "https://folklorer5.github.io/constraint-guided-human-motion-page/assets/images/teaser.jpg"
-            })
-            body += '</div>'
         body+='</section>'
     page('research.html','Research',body)
 
