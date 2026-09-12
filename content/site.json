@@ -1,0 +1,306 @@
+{
+  "name": "Shengling Shi",
+  "group": "Shi Group",
+  "role": "Assistant Professor",
+  "department": "Delft Center for Systems and Control",
+  "university": "TU Delft",
+  "email": "shengling.shi@tudelft.nl",
+  "scholar": "https://scholar.google.com/citations?user=pURGJUoAAAAJ&hl=en",
+  "profile": "https://research.tudelft.nl/en/persons/s-shi-2/",
+  "department_url": "https://www.tudelft.nl/en/me/about/departments/delft-center-for-systems-and-control",
+  "portrait": "assets/images/shengling-shi.jpg",
+  "intro": "I work at the intersection of artificial intelligence, system identification, and optimal control, with applications to biological and bio-inspired systems.",
+  "research_intro": "Our group develops methods and theory for learning dynamical systems and controlling them safely and efficiently. We study human motion digital twins, assistive robotics, and biological networks.",
+  "bio": "I am an Assistant Professor at the Delft Center for Systems and Control, TU Delft. Before joining the faculty, I was a postdoctoral associate at MIT and a postdoctoral researcher at TU Delft. I received my PhD in 2021, advised by Prof. Paul M. J. van den Hof, and my MSc with distinction in 2017, both from the Control Systems Group at Eindhoven University of Technology. During my master's studies, I completed a research internship at ETH Zurich. I obtained my bachelor's degree from Harbin Institute of Technology.",
+  "service": "I have served as an associate editor for the IFAC World Congress and am a member of the IFAC Technical Committee on Modelling, Identification and Signal Processing.",
+  "research": [
+    {
+      "id": "learning-control",
+      "title": "Learning-based optimal control",
+      "short": "Performance and safety guarantees for control with learned or uncertain models.",
+      "description": "How can we control large-scale or partially unknown systems while retaining rigorous guarantees? We develop and analyze model predictive control, approximate dynamic programming, and control barrier functions, with a focus on performance, safety, and computational efficiency.",
+      "image": "assets/images/control-research.png",
+      "alt": "A control-theoretic surface and its level set, from the group's research",
+      "caption": "Performance analysis and safety constraints in learning-based control.",
+      "papers": [
+        "Suboptimality analysis",
+        "State-action control barrier"
+      ]
+    },
+    {
+      "id": "bio-inspired",
+      "title": "AI for bio-inspired systems",
+      "short": "Human motion digital twins, musculoskeletal systems, and tendon-driven robots.",
+      "description": "We bring learning and optimal control to nonlinear, high-dimensional systems, particularly human musculoskeletal models and tendon-driven assistive robots. Our work explores reinforcement learning, generative models, and efficient numerical methods for applications in healthcare and human movement.",
+      "image": "assets/images/research-overview.png",
+      "alt": "A simulated human musculoskeletal model with leg muscles shown in red",
+      "caption": "A musculoskeletal model for studying human motion and control.",
+      "papers": []
+    },
+    {
+      "id": "dynamical-networks",
+      "title": "Learning dynamical networks",
+      "short": "Data-driven modeling and identification of interconnected dynamical systems.",
+      "description": "Complex systems consist of interacting subsystems. We study how network structure and dynamics can be identified from limited measurements and excitation signals, with applications including effective connectivity in brain networks.",
+      "image": "assets/images/dynamic-network.png",
+      "alt": "Brain imaging slices highlighting regions used in network analysis",
+      "caption": "Brain imaging provides an application for learning dynamical networks.",
+      "papers": [
+        "Generic identifiability of subnetworks",
+        "A Bayesian method for inference"
+      ]
+    }
+  ],
+  "videos": [
+    {
+      "title": "Human motion simulation",
+      "description": "A demonstration from our work on human motion digital twins.",
+      "type": "mp4",
+      "id": "1P_h0QTvMhge5yWhHZXiCP-xExWJi1ZOf",
+      "poster": "assets/images/human-motion.jpg",
+      "src": "assets/videos/human-motion.mp4",
+      "original_url": "https://drive.google.com/file/d/1P_h0QTvMhge5yWhHZXiCP-xExWJi1ZOf/view"
+    },
+    {
+      "title": "Tendon-driven robotic hand",
+      "description": "Teleoperation and vision-based control for manipulation.",
+      "type": "mp4",
+      "id": "1WEMgQpvj4n-XGWevrnBk4JEtA8JQPNQk",
+      "poster": "assets/images/robotic-hand.jpg",
+      "src": "assets/videos/robotic-hand.mp4",
+      "original_url": "https://drive.google.com/file/d/1WEMgQpvj4n-XGWevrnBk4JEtA8JQPNQk/view"
+    },
+    {
+      "title": "Motion capture and learning",
+      "description": "Bachelor research on motion capture and reinforcement learning for a human motion digital twin.",
+      "type": "mp4",
+      "id": "1LzwL_NN3ypnxByxc3SYVSLB6-X8EEyM9",
+      "poster": "assets/images/motion-capture.jpg",
+      "src": "assets/videos/motion-capture.mp4",
+      "original_url": "https://drive.google.com/file/d/1LzwL_NN3ypnxByxc3SYVSLB6-X8EEyM9/view"
+    }
+  ],
+  "news": [
+    {
+      "date": "Jun 2026",
+      "text": "Two bachelor research groups successfully defended their thesis projects on robotic-hand control and human motion digital twins."
+    },
+    {
+      "date": "Mar 2026",
+      "text": "We presented preliminary results on human motion digital twins at the Benelux Meeting on Systems and Control."
+    },
+    {
+      "date": "Mar 2026",
+      "text": "DCSC launched a monthly online seminar series. The spring speakers were Leilei Cui, Sungho Shin, Dinesh Krishnamoorthy, and Lars Lindemann.",
+      "url": "https://www.youtube.com/@DCSCTUDelft",
+      "link_label": "DCSC recordings"
+    },
+    {
+      "date": "Jan 2026",
+      "text": "Congratulations to Kanghui He on successfully defending his PhD thesis on safe and computationally efficient learning-based control!"
+    },
+    {
+      "date": "Dec 2025",
+      "text": "Changrui Liu's work on the regret of MPC with imperfect inputs was featured at CDC 2025 in Brazil.",
+      "url": "https://ieeexplore.ieee.org/document/11025999",
+      "link_label": "Paper"
+    },
+    {
+      "date": "Nov 2025",
+      "text": "Our paper on state-action control barrier functions appeared online in IEEE Transactions on Automatic Control.",
+      "url": "https://ieeexplore.ieee.org/document/11267077",
+      "link_label": "Paper"
+    },
+    {
+      "date": "Oct 2025",
+      "text": "Shengling attended IROS 2025 in Hangzhou, China."
+    },
+    {
+      "date": "Sep 2025",
+      "text": "Our preprint on bang-ride optimal control and fast battery charging is available on arXiv.",
+      "url": "https://arxiv.org/abs/2508.09010",
+      "link_label": "Preprint"
+    },
+    {
+      "date": "Sep 2025",
+      "text": "Our paper on the suboptimality of receding horizon quadratic control appeared online in IEEE Transactions on Automatic Control.",
+      "url": "https://ieeexplore.ieee.org/abstract/document/11147180",
+      "link_label": "Paper"
+    },
+    {
+      "date": "Aug 2025",
+      "text": "Kelvin Toonen joined the group as a PhD student, working on learning and control for human digital twins."
+    },
+    {
+      "date": "Aug 2025",
+      "text": "Shengling joined TU Delft as an Assistant Professor."
+    },
+    {
+      "date": "Mar 2024",
+      "text": "Shengling joined MIT as a postdoctoral associate, working on optimal control for large-scale nonlinear systems."
+    }
+  ],
+  "members": [
+    {
+      "name": "Kelvin Toonen",
+      "role": "PhD student",
+      "education": "MSc and BSc, Eindhoven University of Technology",
+      "topic": "AI and control for human digital twins",
+      "coadvisors": ""
+    },
+    {
+      "name": "Changrui Liu",
+      "role": "PhD student",
+      "education": "MSc, TU Delft · BSc, Harbin Institute of Technology",
+      "topic": "Learning-based control with performance guarantees",
+      "coadvisors": "Co-advised with Prof. Bart De Schutter"
+    },
+    {
+      "name": "Menno van Laarhoven",
+      "role": "PhD student",
+      "education": "MSc and BSc, TU Delft",
+      "topic": "Identification and control of biological systems",
+      "coadvisors": "Co-advised with Prof. Carlas Smith"
+    },
+    {
+      "name": "Freya van Apeldoorn",
+      "role": "MSc student",
+      "education": "BSc in Aerospace Engineering, TU Delft; minor in Computer Science",
+      "topic": "",
+      "coadvisors": ""
+    },
+    {
+      "name": "Yannick ten Dam",
+      "role": "MSc student",
+      "education": "BSc, TU Delft",
+      "topic": "",
+      "coadvisors": ""
+    },
+    {
+      "name": "Alex Harris",
+      "role": "MSc student",
+      "education": "BSc, TU Delft",
+      "topic": "",
+      "coadvisors": ""
+    },
+    {
+      "name": "Qijun Feng",
+      "role": "MSc student",
+      "education": "BSc, Northwestern Polytechnical University",
+      "topic": "",
+      "coadvisors": "Co-advised with Kelvin Toonen"
+    }
+  ],
+  "alumni": [
+    {
+      "name": "Kanghui He",
+      "degree": "PhD, TU Delft",
+      "year": "2026",
+      "title": "Learning-based control under constraints: Towards safety and computational efficiency",
+      "coadvisors": "Co-advised with Prof. Bart De Schutter and Prof. Ton van den Boom",
+      "next": "Postdoc, University of Oxford",
+      "url": "https://repository.tudelft.nl/record/uuid:c3a22206-6f58-436c-94fa-d907dd71b269"
+    },
+    {
+      "name": "Marco Delgado Schwartz",
+      "degree": "MSc, TU Delft",
+      "year": "2024",
+      "title": "Topology optimization for co-design",
+      "coadvisors": "Co-advised with Dr. Peyman Mohajerin Esfahani and Dr. Steven Wilkins",
+      "next": "Engineer, Pon Power",
+      "url": ""
+    },
+    {
+      "name": "Michiel Kockelkoren",
+      "degree": "MSc, TU Delft",
+      "year": "2024",
+      "title": "Model-based motion optimization for quadruped robots with an actuated articulated torso",
+      "coadvisors": "Co-advised with Dr. Manuel Mazo Jr. and Luyao Zhang",
+      "next": "Engineer, ASML",
+      "url": "https://repository.tudelft.nl/islandora/object/uuid%3Aa0885ea5-3fa5-4fa8-a350-6f2c04f6c65c"
+    },
+    {
+      "name": "Archith Athrey",
+      "degree": "MSc, TU Delft",
+      "year": "2023",
+      "title": "Regret analysis of learning-based LQG control with additive exploration",
+      "coadvisors": "",
+      "next": "Engineer, VDL",
+      "url": "https://arxiv.org/abs/2311.02679"
+    },
+    {
+      "name": "Dana de Vreede",
+      "degree": "BSc, TU/e",
+      "year": "2021",
+      "title": "Online expectation-maximization algorithm for Bayesian system identification",
+      "coadvisors": "",
+      "next": "",
+      "url": ""
+    },
+    {
+      "name": "Job Meijer",
+      "degree": "MSc internship, TU/e",
+      "year": "2020",
+      "title": "Topology identification of linear dynamic networks with singular noises",
+      "coadvisors": "",
+      "next": "",
+      "url": ""
+    },
+    {
+      "name": "Rik van Esch",
+      "degree": "MSc, TU/e",
+      "year": "2019",
+      "title": "Bayesian inference of effective connectivity in brain networks for detecting the Mozart effect",
+      "coadvisors": "",
+      "next": "PhD, TU/e",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0010482520303863"
+    }
+  ],
+  "bachelor_projects": [
+    {
+      "title": "Teleoperation and vision-based control of a tendon-driven robotic hand for manipulation",
+      "year": "2026",
+      "video_index": 1
+    },
+    {
+      "title": "Motion capture and reinforcement learning for a human motion digital twin",
+      "year": "2026",
+      "video_index": 2
+    }
+  ],
+  "teaching": [
+    {
+      "title": "Stochastic Signal Analysis",
+      "year": "2026",
+      "institution": "TU Delft",
+      "level": "Bachelor",
+      "description": "For Applied Physics and Applied Mathematics degree programs. Co-lectured with Prof. Carlas Sierd Smith."
+    },
+    {
+      "title": "Modeling of Dynamical Systems",
+      "year": "2022",
+      "institution": "TU Delft",
+      "level": "Master",
+      "description": "Guest lecturer and teaching assistant."
+    },
+    {
+      "title": "Model Predictive Control",
+      "year": "2016–2020",
+      "institution": "TU/e",
+      "level": "Master",
+      "description": "Teaching assistant."
+    },
+    {
+      "title": "Control Systems",
+      "year": "2016–2020",
+      "institution": "TU/e",
+      "level": "Bachelor",
+      "description": "Teaching assistant for the laboratory course."
+    }
+  ],
+  "opportunities": {
+    "phd_postdoc": "There are currently no advertised PhD or postdoctoral positions in the group.",
+    "visitors": "I am happy to discuss hosting students and researchers with their own fellowship, as well as research visits. Prospective postdoctoral researchers may consider the Marie Skłodowska-Curie Postdoctoral Fellowships.",
+    "students": "Master's students are welcome to contact me to discuss potential thesis projects. I also welcome bachelor's students interested in research projects."
+  }
+}

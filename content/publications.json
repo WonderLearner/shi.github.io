@@ -1,0 +1,454 @@
+[
+  {
+    "title": "Certainty-Equivalence Model Predictive Control: Stability, Performance, and Beyond",
+    "authors": "C. Liu, S. Shi, and B. De Schutter",
+    "citation": "IEEE Transactions on Automatic Control, 71(7), 4649–4664, 2026.",
+    "year": 2026,
+    "topic": "Learning-Based Control",
+    "kind": "Journal Papers",
+    "links": [
+      {
+        "label": "ArXiv",
+        "url": "https://arxiv.org/abs/2412.10625"
+      },
+      {
+        "label": "IEEE",
+        "url": "https://ieeexplore.ieee.org/document/11372995"
+      }
+    ]
+  },
+  {
+    "title": "State-action control barrier functions: Imposing safety on learning-based control with low online computational costs",
+    "authors": "K. He, S. Shi, T. van den Boom, and B. De Schutter",
+    "citation": "IEEE Transactions on Automatic Control, 71(5), 3365–3371, 2026.",
+    "year": 2026,
+    "topic": "Learning-Based Control",
+    "kind": "Journal Papers",
+    "links": [
+      {
+        "label": "ArXiv",
+        "url": "https://arxiv.org/abs/2312.11255"
+      },
+      {
+        "label": "IEEE",
+        "url": "https://ieeexplore.ieee.org/document/11267077"
+      }
+    ]
+  },
+  {
+    "title": "Suboptimality analysis of receding horizon quadratic control with unknown linear systems and its applications in learning-based control",
+    "authors": "S. Shi, A. Tsiamis, and B. De Schutter",
+    "citation": "IEEE Transactions on Automatic Control, 71(3), 1422–1437, 2026.",
+    "year": 2026,
+    "topic": "Learning-Based Control",
+    "kind": "Journal Papers",
+    "links": [
+      {
+        "label": "ArXiv",
+        "url": "https://arxiv.org/abs/2301.07876"
+      },
+      {
+        "label": "IEEE",
+        "url": "https://ieeexplore.ieee.org/abstract/document/11147180"
+      }
+    ]
+  },
+  {
+    "title": "On the Regret of Model Predictive Control with Imperfect Inputs",
+    "authors": "C. Liu, S. Shi, and B. De Schutter",
+    "citation": "IEEE Control Systems Letters, 2025.",
+    "year": 2025,
+    "topic": "Learning-Based Control",
+    "kind": "Journal Papers",
+    "links": [
+      {
+        "label": "IEEE",
+        "url": "https://ieeexplore.ieee.org/document/11025999"
+      }
+    ]
+  },
+  {
+    "title": "Approximate dynamic programming for constrained linear systems: A piecewise quadratic approximation approach",
+    "authors": "K. He, S. Shi, T. van den Boom, and B. De Schutter",
+    "citation": "Automatica, 2024.",
+    "year": 2024,
+    "topic": "Learning-Based Control",
+    "kind": "Journal Papers",
+    "links": [
+      {
+        "label": "Elsevier",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0005109823006234"
+      }
+    ]
+  },
+  {
+    "title": "Approximate Dynamic Programming for Constrained Piecewise Affine Systems with Stability and Safety Guarantees",
+    "authors": "K. He, S. Shi, T. van den Boom, and B. De Schutter",
+    "citation": "IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2024.",
+    "year": 2024,
+    "topic": "Learning-Based Control",
+    "kind": "Journal Papers",
+    "links": [
+      {
+        "label": "IEEE",
+        "url": "https://ieeexplore.ieee.org/abstract/document/10814712"
+      },
+      {
+        "label": "ArXiv",
+        "url": "https://arxiv.org/abs/2306.15723"
+      }
+    ]
+  },
+  {
+    "title": "Efficient and Safe Learning-based Control of Piecewise Affine Systems Using Optimization-Free Safety Filters",
+    "authors": "K. He, S. Shi, T. van den Boom, and B. De Schutter",
+    "citation": "Conference on Decision and Control (CDC), 2024.",
+    "year": 2024,
+    "topic": "Learning-Based Control",
+    "kind": "Conference Proceedings",
+    "links": [
+      {
+        "label": "IEEE",
+        "url": "https://ieeexplore.ieee.org/document/10886328"
+      }
+    ]
+  },
+  {
+    "title": "Stability and performance analysis of model predictive control of uncertain linear systems",
+    "authors": "C. Liu, S. Shi, and B. De Schutter",
+    "citation": "Conference on Decision and Control (CDC), 2024.",
+    "year": 2024,
+    "topic": "Learning-Based Control",
+    "kind": "Conference Proceedings",
+    "links": [
+      {
+        "label": "IEEE",
+        "url": "https://ieeexplore.ieee.org/document/10885798"
+      },
+      {
+        "label": "ArXiv",
+        "url": "https://arxiv.org/abs/2405.15552"
+      }
+    ]
+  },
+  {
+    "title": "Regret analysis of learning-based linear quadratic gaussian control with additive exploration",
+    "authors": "A. Athrey, O. Mazhar, M. Guo, B. De Schutter, and S. Shi",
+    "citation": "European Control Conference (ECC), 2024.",
+    "year": 2024,
+    "topic": "Learning-Based Control",
+    "kind": "Conference Proceedings",
+    "links": [
+      {
+        "label": "IEEE",
+        "url": "https://ieeexplore.ieee.org/abstract/document/10590739"
+      },
+      {
+        "label": "ArXiv",
+        "url": "https://arxiv.org/abs/2311.02679"
+      }
+    ]
+  },
+  {
+    "title": "A recursively feasible distributed robust MPC algorithm for vehicle platooning",
+    "authors": "S. Shi and M. Lazar",
+    "citation": "IFAC Workshop on Distributed Estimation and Control in Networked Systems, 2018.",
+    "year": 2018,
+    "topic": "Learning-Based Control",
+    "kind": "Conference Proceedings",
+    "links": [
+      {
+        "label": "Elsevier",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2405896318335523"
+      }
+    ]
+  },
+  {
+    "title": "On distributed model predictive control for vehicle platooning with a recursive feasibility guarantee",
+    "authors": "S. Shi and M. Lazar",
+    "citation": "IFAC World Congress, 2017.",
+    "year": 2017,
+    "topic": "Learning-Based Control",
+    "kind": "Conference Proceedings",
+    "links": [
+      {
+        "label": "Elsevier",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2405896317309849"
+      }
+    ]
+  },
+  {
+    "title": "Bang-Ride Optimal Control: Monotonicity, External Positivity, and Fast Battery Charging",
+    "authors": "S. Shi, J. Sass, J. Wu, M. Kim, Y. Ma, S. Shin, R. Findeisen, R. D. Braatz",
+    "citation": "submitted to IEEE Transactions on Automatic Control, 2025.",
+    "year": 2025,
+    "topic": "Learning-Based Control",
+    "kind": "Submitted Papers",
+    "links": [
+      {
+        "label": "ArXiv",
+        "url": "https://arxiv.org/abs/2508.09010"
+      }
+    ]
+  },
+  {
+    "title": "Robust Adaptive Discrete-Time Control Barrier Certificate",
+    "authors": "C. Liu, A. Anil, S. Shi, and B. De Schutter",
+    "citation": "Under review by Automatica, 2025.",
+    "year": 2025,
+    "topic": "Learning-Based Control",
+    "kind": "Submitted Papers",
+    "links": [
+      {
+        "label": "ArXiv",
+        "url": "https://arxiv.org/abs/2508.08153"
+      }
+    ]
+  },
+  {
+    "title": "From Learning to Safety: A Direct Data-Driven Framework for Constrained Control",
+    "authors": "K. He, S. Shi, T. van den Boom, and B. De Schutter",
+    "citation": "Under review by IEEE Transactions on Automatic Control, 2025.",
+    "year": 2025,
+    "topic": "Learning-Based Control",
+    "kind": "Submitted Papers",
+    "links": [
+      {
+        "label": "ArXiv",
+        "url": "https://arxiv.org/abs/2505.15515"
+      }
+    ]
+  },
+  {
+    "title": "Data-informativity conditions for structured linear systems with implications for dynamic networks",
+    "authors": "P. M. J. Van den Hof, S. Shi, S. Fonken, K. R. Ramaswamy, H. Hjalmarsson, and A. Dankers",
+    "citation": "Automatica, 191, 113110, 2026.",
+    "year": 2026,
+    "topic": "Learning Dynamical Systems",
+    "kind": "Journal Papers",
+    "links": [
+      {
+        "label": "Elsevier",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0005109826002943"
+      }
+    ]
+  },
+  {
+    "title": "Identifiability in dynamic acyclic networks with partial excitations and measurements",
+    "authors": "X. Cheng, S. Shi, I. Lestas, and P. M. J. Van den Hof",
+    "citation": "IEEE Transactions on Automatic Control, 2025.",
+    "year": 2025,
+    "topic": "Learning Dynamical Systems",
+    "kind": "Journal Papers",
+    "links": [
+      {
+        "label": "IEEE",
+        "url": "https://ieeexplore.ieee.org/document/10711226"
+      },
+      {
+        "label": "ArXiv",
+        "url": "https://arxiv.org/abs/2201.07548"
+      }
+    ]
+  },
+  {
+    "title": "Single module identifiability in linear dynamic networks with partial excitation and measurement",
+    "authors": "S. Shi, X. Cheng, and P. M. J. Van den Hof",
+    "citation": "IEEE Transactions on Automatic Control, 2023.",
+    "year": 2023,
+    "topic": "Learning Dynamical Systems",
+    "kind": "Journal Papers",
+    "links": [
+      {
+        "label": "IEEE",
+        "url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9661422"
+      },
+      {
+        "label": "ArXiv",
+        "url": "https://arxiv.org/abs/2012.11414"
+      }
+    ]
+  },
+  {
+    "title": "A necessary condition for network identifiability with partial excitation and measurement",
+    "authors": "X. Cheng, S. Shi, I. Lestas, and P. M. J. Van den Hof",
+    "citation": "IEEE Transactions on Automatic Control, 2023.",
+    "year": 2023,
+    "topic": "Learning Dynamical Systems",
+    "kind": "Journal Papers",
+    "links": [
+      {
+        "label": "IEEE",
+        "url": "https://ieeexplore.ieee.org/document/10025819"
+      },
+      {
+        "label": "ArXiv",
+        "url": "https://arxiv.org/abs/2105.03187"
+      }
+    ]
+  },
+  {
+    "title": "Finite-sample analysis of identification of switched linear systems with arbitrary or restricted switching",
+    "authors": "S. Shi, O. Mazhar, and B. De Schutter",
+    "citation": "IEEE Control Systems Letters, 2022.",
+    "year": 2022,
+    "topic": "Learning Dynamical Systems",
+    "kind": "Journal Papers",
+    "links": [
+      {
+        "label": "IEEE",
+        "url": "https://ieeexplore.ieee.org/abstract/document/9810989"
+      }
+    ]
+  },
+  {
+    "title": "Generic identifiability of subnetworks in a linear dynamic network: the full measurement case",
+    "authors": "S. Shi, X. Cheng, and P. M. J. Van den Hof",
+    "citation": "Automatica, 2022.",
+    "year": 2022,
+    "topic": "Learning Dynamical Systems",
+    "kind": "Journal Papers",
+    "links": [
+      {
+        "label": "Elsevier",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0005109821006221"
+      },
+      {
+        "label": "ArXiv",
+        "url": "https://arxiv.org/abs/2008.01495"
+      }
+    ]
+  },
+  {
+    "title": "Excitation allocation for generic identifiability of linear dynamic networks with fixed modules",
+    "authors": "H. J. Dreef, S. Shi, X. Cheng, M. C. F. Donkers, and P. M. J. Van den Hof",
+    "citation": "IEEE Control Systems Letters, 2022.",
+    "year": 2022,
+    "topic": "Learning Dynamical Systems",
+    "kind": "Journal Papers",
+    "links": [
+      {
+        "label": "IEEE",
+        "url": "https://ieeexplore.ieee.org/document/9764800"
+      }
+    ]
+  },
+  {
+    "title": "Allocation of excitation signals for generic identifiability of linear dynamic networks",
+    "authors": "X. Cheng, S. Shi, I. Lestas, and P. M. J. Van den Hof",
+    "citation": "IEEE Transactions on Automatic Control, 2022.",
+    "year": 2022,
+    "topic": "Learning Dynamical Systems",
+    "kind": "Journal Papers",
+    "links": [
+      {
+        "label": "IEEE",
+        "url": "https://ieeexplore.ieee.org/document/9335044"
+      },
+      {
+        "label": "ArXiv",
+        "url": "https://arxiv.org/abs/1910.04525"
+      }
+    ]
+  },
+  {
+    "title": "A Bayesian method for inference of effective connectivity in brain networks for detecting the Mozart effect",
+    "authors": "R. J. C. van Esch, S. Shi*, A. Bernas, S. Zinger, A. P. Aldenkamp, and P. M. J. Van den Hof",
+    "citation": "Computers in Biology and Medicine, 2020. *Corresponding author.",
+    "year": 2020,
+    "topic": "Learning Dynamical Systems",
+    "kind": "Journal Papers",
+    "links": [
+      {
+        "label": "Elsevier",
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S0010482520303863#:~:text=This%20method%20evaluates%20the%20effective,estimates%20of%20the%20effective%20connectivity."
+      },
+      {
+        "label": "ArXiv",
+        "url": "https://arxiv.org/abs/2010.07801"
+      }
+    ]
+  },
+  {
+    "title": "A behavioral perspective on models of linear dynamical networks with manifest variables",
+    "authors": "S. Shi, Z. Sun, and B. De Schutter",
+    "citation": "European Control Conference, 2024.",
+    "year": 2024,
+    "topic": "Learning Dynamical Systems",
+    "kind": "Conference Proceedings",
+    "links": [
+      {
+        "label": "IEEE",
+        "url": "https://ieeexplore.ieee.org/document/10591178"
+      },
+      {
+        "label": "ArXiv",
+        "url": "https://arxiv.org/abs/2310.15937"
+      }
+    ]
+  },
+  {
+    "title": "Signal selection for local module identification in linear dynamic networks: A graphical approach",
+    "authors": "S. Shi, X. Cheng, B. De Schutter, and P. M. J. Van den Hof",
+    "citation": "IFAC World Congress, 2023.",
+    "year": 2023,
+    "topic": "Learning Dynamical Systems",
+    "kind": "Conference Proceedings",
+    "links": [
+      {
+        "label": "Elsevier",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2405896323016191"
+      }
+    ]
+  },
+  {
+    "title": "Excitation allocation for generic identifiability of a single module in dynamic networks: A graphic approach",
+    "authors": "S. Shi, X. Cheng, and P. M. J. Van den Hof",
+    "citation": "IFAC World Congress, 2020.",
+    "year": 2020,
+    "topic": "Learning Dynamical Systems",
+    "kind": "Conference Proceedings",
+    "links": [
+      {
+        "label": "Elsevier",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2405896320302949"
+      }
+    ]
+  },
+  {
+    "title": "Allocation of excitation signals for generic identifiability of dynamic networks",
+    "authors": "X. Cheng, S. Shi, and P. M. J. Van den Hof",
+    "citation": "Conference on Decision and Control, 2019.",
+    "year": 2019,
+    "topic": "Learning Dynamical Systems",
+    "kind": "Conference Proceedings",
+    "links": [
+      {
+        "label": "IEEE",
+        "url": "https://ieeexplore.ieee.org/document/9029218"
+      },
+      {
+        "label": "ArXiv",
+        "url": "https://arxiv.org/abs/1910.04525"
+      }
+    ]
+  },
+  {
+    "title": "Bayesian topology identification of linear dynamic networks",
+    "authors": "S. Shi, G. Bottegal, and P. M. J. Van den Hof",
+    "citation": "European Control Conference, 2019.",
+    "year": 2019,
+    "topic": "Learning Dynamical Systems",
+    "kind": "Conference Proceedings",
+    "links": [
+      {
+        "label": "IEEE",
+        "url": "https://ieeexplore.ieee.org/document/8795766"
+      },
+      {
+        "label": "ArXiv",
+        "url": "https://arxiv.org/abs/1903.06205"
+      }
+    ]
+  }
+]
