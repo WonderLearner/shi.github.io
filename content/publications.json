@@ -26,12 +26,12 @@
     "kind": "Journal Papers",
     "links": [
       {
-        "label": "ArXiv",
-        "url": "https://arxiv.org/abs/2312.11255"
-      },
-      {
         "label": "IEEE",
         "url": "https://ieeexplore.ieee.org/document/11267077"
+      },
+      {
+        "label": "ArXiv",
+        "url": "https://arxiv.org/abs/2312.11255"
       }
     ]
   },
@@ -44,12 +44,12 @@
     "kind": "Journal Papers",
     "links": [
       {
-        "label": "ArXiv",
-        "url": "https://arxiv.org/abs/2301.07876"
-      },
-      {
         "label": "IEEE",
         "url": "https://ieeexplore.ieee.org/abstract/document/11147180"
+      },
+      {
+        "label": "ArXiv",
+        "url": "https://arxiv.org/abs/2301.07876"
       }
     ]
   },
