@@ -107,7 +107,7 @@ def home():
     page('index.html','About',body)
 
 def research():
-    body=header('Research','Learning and control methods grounded in theory, with applications to biological and bio-inspired systems.')
+    body=header('Research','Learning and control methods grounded in theory, with applications to human movement and robotics.')
     body+='<nav class="anchor-nav" aria-label="Research areas">'+''.join(link('#'+r['id'],r['title']) for r in SITE['research'])+'</nav>'
     for i,r in enumerate(SITE['research']):
         related=[p for prefix in r['papers'] for p in PAPERS if p['title'].startswith(prefix)]
