@@ -78,7 +78,7 @@ def video(v):
     title=e(v['title']);poster=e(v['poster'])
     if v['type']=='mp4':
         tracks=''.join(f'<track kind="captions" src="{e(t["src"])}" srclang="{e(t["language"])}" label="{e(t["label"])}">' for t in v.get('captions',[]))
-        content=f'<video controls playsinline preload="none" poster="{poster}" aria-label="{title}"><source src="{e(v["src"])}" type="video/mp4">{tracks}Your browser does not support this video. {link(v["src"],"Download video")}</video>'
+        content=f'<video controls autoplay muted loop playsinline preload="metadata" poster="{poster}" aria-label="{title}"><source src="{e(v["src"])}" type="video/mp4">{tracks}Your browser does not support this video. {link(v["src"],"Download video")}</video>'
         fallback = ''
     else:
         if v['type']=='youtube':
