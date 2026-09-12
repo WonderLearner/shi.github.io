@@ -7,3 +7,7 @@
 @media(max-width:400px){.hero{grid-template-columns:minmax(0,1fr) 105px;gap:1.2rem}.hero h1{font-size:2.55rem}.hero .role{font-size:.88rem}.people-grid{grid-template-columns:1fr}.section-heading{align-items:flex-start;flex-wrap:wrap}.research-card{grid-template-columns:90px minmax(0,1fr)}.research-card .image-link{height:115px}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*::before,*::after{transition:none!important;animation:none!important}}
 @media print{.site-header,.site-footer,.menu-toggle,.video-launch,.pub-sidebar{display:none}.wrap{width:100%;max-width:none}.hero,.section,.page-header{padding:1rem 0}.pub-layout{display:block}.paper,.person,.alumnus,.course{break-inside:avoid}a{color:inherit}.video-grid{display:block}.video-card{margin-bottom:1rem}}
+.research-card:nth-child(2) img {
+  object-fit: contain;
+  object-position: center;
+}
