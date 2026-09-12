@@ -141,7 +141,7 @@ def team():
             if m['coadvisors']:body+=f'<p class="coadvisors">{e(m["coadvisors"])}</p>'
             body+='</article>'
         body+='</div></section>'
-    body+='<section class="section">'+heading('Bachelor research · 2026')+'<div class="video-grid">'+''.join(video(SITE['videos'][p['video_index']]) for p in SITE['bachelor_projects'])+'</div></section>'
+    body += '<section class="section">' + heading("Bachelor’s students") + '</section>'
     body+='<section class="section">'+heading('Alumni')+'<div class="alumni-list">'
     for a in SITE['alumni']:
         body+=f'<article class="alumnus"><h3>{e(a["name"])}</h3><p class="metadata">{e(a["degree"])} · {e(a["year"])}</p><p class="thesis">'+(link(a['url'],a['title']) if a['url'] else e(a['title']))+'</p>'
