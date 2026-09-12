@@ -193,6 +193,15 @@
   ],
   "alumni": [
     {
+      "name": "Lars Priester, Annewieke van Beek, Sven van Schagen, Friso Kroes, Friso Holleman",
+      "degree": "BSc, TU Delft",
+      "year": "2026",
+      "title": "Combining Vision-Based Motion Capture and Reinforcement Learning for Joint Torque Estimation",
+      "coadvisors": "Co-advised with Kelvin Toonen",
+      "next": "",
+      "url": ""
+    },
+    {
       "name": "Kanghui He",
       "degree": "PhD, TU Delft",
       "year": "2026",
