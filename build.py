@@ -79,7 +79,7 @@ def video(v):
     if v['type']=='mp4':
         tracks=''.join(f'<track kind="captions" src="{e(t["src"])}" srclang="{e(t["language"])}" label="{e(t["label"])}">' for t in v.get('captions',[]))
         content=f'<video controls playsinline preload="none" poster="{poster}" aria-label="{title}"><source src="{e(v["src"])}" type="video/mp4">{tracks}Your browser does not support this video. {link(v["src"],"Download video")}</video>'
-        fallback=link(v['src'],'Download video','external-video')
+        fallback = ''
     else:
         if v['type']=='youtube':
             embed='https://www.youtube-nocookie.com/embed/'+v['id']+'?autoplay=1'
