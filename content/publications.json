@@ -206,7 +206,7 @@
     ]
   },
   {
-    "title": "From Learning to Safety: A Direct Data-Driven Framework for Constrained Control",
+    "title": "Learning State-Action Control Barrier Functions for Model-Free Control under Constraints",
     "authors": "K. He, S. Shi, T. van den Boom, and B. De Schutter",
     "citation": "Under review by IEEE Transactions on Automatic Control, 2025.",
     "year": 2025,
