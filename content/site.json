@@ -82,6 +82,10 @@
   ],
   "news": [
     {
+      "date": "Sep 2026",
+      "text": "Master student Qijun Feng graduated from my group, congratulations! His thesis is about incorporating physics constraints into diffusion model for human motion generation."
+    },
+    {
       "date": "Jun 2026",
       "text": "Two bachelor research groups successfully defended their thesis projects on robotic-hand control and human motion digital twins."
     },
