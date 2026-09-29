@@ -186,16 +186,18 @@
       "education": "BSc, University of Utah",
       "topic": "",
       "coadvisors": ""
-    },
-    {
-      "name": "Qijun Feng",
-      "role": "MSc student",
-      "education": "BSc, Northwestern Polytechnical University",
-      "topic": "",
-      "coadvisors": "Co-advised with Kelvin Toonen"
     }
   ],
   "alumni": [
+    {
+      "name": "Qijun Feng",
+      "degree": "MSc, TU Delft; BSc, Northwestern Polytechnical University",
+      "year": "2026",
+      "title": "Constraint-Guided Human Motion Diffusion: Phase-Aware Physical Artifact Reduction toward Long-Horizon Obstacle-Aware Generation",
+      "coadvisors": "Co-advised with Kelvin Toonen",
+      "next": "",
+      "url": "https://repository.tudelft.nl/record/uuid:e236f7c4-33c3-4732-8119-ccf83c86b66e"
+    },
     {
       "name": "Luuk van der Wiel, Martijn Boonen, Louis Verbeke, Baptiste Gallé",
       "degree": "BSc, TU Delft",
