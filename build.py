@@ -131,7 +131,11 @@ def publications():
 def team():
     body=header('Our team','Researchers and students working across learning, dynamics, and control.')
     body+=f'<section class="group-photo" aria-label="Faculty">{image(SITE["portrait"],"Shengling Shi")}<div><p class="eyebrow">Faculty</p><h2>Shengling Shi</h2><p class="role">Assistant Professor</p><p>{e(SITE["bio"])}</p><div class="text-links">{link("mailto:"+SITE["email"],"Email")}{link(SITE["scholar"],"Google Scholar")}</div></div></section>'
-    for role,title in [('PhD student','PhD researchers'),('MSc student',"Master’s students")]:
+    for role, title in [
+        ('PhD student', 'PhD researchers'),
+        ('MSc student', 'Master’s students'),
+        ('Bachelor student', 'Bachelor’s students'),
+    ]:
         body+='<section class="section">'+heading(title)+'<div class="people-grid">'
         for m in SITE['members']:
             if m['role']!=role:continue
@@ -141,7 +145,6 @@ def team():
             if m['coadvisors']:body+=f'<p class="coadvisors">{e(m["coadvisors"])}</p>'
             body+='</article>'
         body+='</div></section>'
-    body += '<section class="section">' + heading("Bachelor’s students") + '</section>'
     body+='<section class="section">'+heading('Alumni')+'<div class="alumni-list">'
     for a in SITE['alumni']:
         body+=f'<article class="alumnus"><h3>{e(a["name"])}</h3><p class="metadata">{e(a["degree"])} · {e(a["year"])}</p><p class="thesis">'+(link(a['url'],a['title']) if a['url'] else e(a['title']))+'</p>'
